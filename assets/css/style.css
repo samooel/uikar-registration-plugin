@@ -1,0 +1,99 @@
+.ltr
+{
+    direction:ltr;
+    text-align:left
+}
+.form-group input, .form-group button
+{
+    font:11px iranSans, Calibri, tahoma;
+}
+h1, h2, h3, h4, h5, h6
+{
+    font:14px iranSans, Calibri;
+}
+ul
+{
+    margin-bottom:0;
+}
+.strength-pass
+{
+    width:20%;
+    height:30px;
+    border:1px solid #cecece;
+    border-radius:5px;
+    display:block;
+    position: relative;
+    background-color:#ebebeb;
+    margin-top:20px;
+}
+#password-strength {
+    position: relative;
+    z-index: 10;
+    text-align: center;
+    display: block;
+    color: #7e7e7e;
+}
+.progress-meter
+{
+    position: absolute;
+    top:0;
+    background-color:#cecece;
+    height:28px;
+    display:block;
+    width:0;
+    transition: all 0.5s ease-in-out 0s;
+    -moz-transition: all 0.5s ease-in-out 0s;
+    -o-transition: all 0.5s ease-in-out 0s;
+    -ms-transition: all 0.5s ease-in-out 0s;
+    -webkit-transition: all 0.5s ease-in-out 0s;
+    border-radius:5px;
+}
+.progress-meter.strong
+{
+    width:100%;
+    background-color:#006600;
+    transition: all 0.5s ease-in-out 0s;
+    -moz-transition: all 0.5s ease-in-out 0s;
+    -o-transition: all 0.5s ease-in-out 0s;
+    -ms-transition: all 0.5s ease-in-out 0s;
+    -webkit-transition: all 0.5s ease-in-out 0s;
+}
+.progress-meter.good
+{
+    width:60%;
+    background-color:#8CBB00;
+    transition: all 0.5s ease-in-out 0s;
+    -moz-transition: all 0.5s ease-in-out 0s;
+    -o-transition: all 0.5s ease-in-out 0s;
+    -ms-transition: all 0.5s ease-in-out 0s;
+    -webkit-transition: all 0.5s ease-in-out 0s;
+}
+.progress-meter.short
+{
+    width:20%;
+    transition: all 0.5s ease-in-out 0s;
+    background-color:#D07C00;
+    -moz-transition: all 0.5s ease-in-out 0s;
+    -o-transition: all 0.5s ease-in-out 0s;
+    -ms-transition: all 0.5s ease-in-out 0s;
+    -webkit-transition: all 0.5s ease-in-out 0s;
+}
+
+.progress-meter.bad
+{
+    width:10%;
+    background-color:#CF0001;
+    transition: all 0.5s ease-in-out 0s;
+    -moz-transition: all 0.5s ease-in-out 0s;
+    -o-transition: all 0.5s ease-in-out 0s;
+    -ms-transition: all 0.5s ease-in-out 0s;
+    -webkit-transition: all 0.5s ease-in-out 0s;
+}
+input[type="submit"], input[type="reset"]
+{
+    cursor:pointer;
+}
+.alert 
+{
+    font:14px iranSans, Calibri;
+}

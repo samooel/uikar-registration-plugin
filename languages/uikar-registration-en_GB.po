@@ -1,0 +1,232 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ثبت نام وردپرس\n"
+"POT-Creation-Date: 2017-02-22 09:27+0330\n"
+"PO-Revision-Date: 2017-02-22 10:34+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: registration.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin.php:8
+msgid "تنظیمات ثبت نام"
+msgstr "Registration Settings"
+
+#: includes/admin.php:8
+msgid "ویرایش اطلاعات ثبت نام"
+msgstr "Edit Registration Settings"
+
+#: includes/admin.php:18 includes/form.php:63
+msgid "ثبت نام"
+msgstr "Registration"
+
+#: includes/admin.php:28
+msgid "خوش امدید"
+msgstr "Welcome"
+
+#: includes/admin.php:48
+msgid "محتوای ایمیل ارسالی"
+msgstr "Sending Email Content"
+
+#: includes/admin.php:56
+msgid "ذخیره تغییرات"
+msgstr "Save Changes"
+
+#: includes/form.php:13
+msgid "نام"
+msgstr "Name"
+
+#: includes/form.php:17
+msgid "نام خانوادگی"
+msgstr "Last Name"
+
+#: includes/form.php:21
+msgid "شماره تلفن"
+msgstr "Phone Number"
+
+#: includes/form.php:22
+msgid "لطفا شماره اصلیتان را وارد کنید"
+msgstr "Please Insert Your Real Phone Number"
+
+#: includes/form.php:25
+msgid "تلفن همراه"
+msgstr "Mobile"
+
+#: includes/form.php:26
+msgid "لطفا شماره همراه اصلیتان را وارد کنید"
+msgstr "Please Insert Your Real Mobile Number"
+
+#: includes/form.php:29
+msgid "تخصص"
+msgstr "Profession"
+
+#: includes/form.php:33 includes/functions.php:156
+msgid "ایمیل"
+msgstr "Email"
+
+#: includes/form.php:34
+msgid "برای دریافت لینک فعال سازی لطفا ایمیل اصلی خود را وارد کنید"
+msgstr "For receiving activation link please insert your active email address"
+
+#: includes/form.php:37 includes/functions.php:139 includes/functions.php:155
+#: includes/landing.php:12
+msgid "نام کاربری"
+msgstr "Username"
+
+#: includes/form.php:41
+msgid "کلمه عبور"
+msgstr "Password"
+
+#: includes/form.php:45
+msgid "تکرار کلمه عبور"
+msgstr "Re-type Password"
+
+#: includes/form.php:48
+msgid "امنیت گذرواژه"
+msgstr "Password Strength "
+
+#: includes/form.php:54
+msgid "کد امنیتی"
+msgstr "Security Code"
+
+#: includes/form.php:59
+msgid "کد امنیتی را وارد نمایید"
+msgstr "Please Insert Security Code"
+
+#: includes/form.php:64
+msgid "پاک کردن"
+msgstr "Clear Form"
+
+#: includes/functions.php:49
+msgid "لطفا پسورد خود را وارد نمایید"
+msgstr "Please Insert Your Password"
+
+#: includes/functions.php:52
+msgid "لطفا ایمیل خود را وارد نمایید"
+msgstr "Please Insert Your Email"
+
+#: includes/functions.php:55
+msgid "لطفا نام کاربری خود را وارد نمایید"
+msgstr "Please Insert Your Username"
+
+#: includes/functions.php:58
+msgid "این نام کاربری قبلا ثبت شده لطفا با نام کاربری دیگری ثبت نام کنید!"
+msgstr "This Username is exist in Our Database, Please Choose Another One"
+
+#: includes/functions.php:61
+msgid "نام کاربری شما نامعتبر است"
+msgstr "Your username is invalid"
+
+#: includes/functions.php:65
+msgid "تعداد حروف پسورد باید بیش از 5 حرف باشد"
+msgstr "Your password is less than 5 characters"
+
+#: includes/functions.php:68
+msgid "کلمه عبور شما یکسان نیستند"
+msgstr "Your password is not match"
+
+#: includes/functions.php:72
+msgid "ایمیل معتبر نیست"
+msgstr "Your email is not valid"
+
+#: includes/functions.php:75
+msgid "این ایمیل قبلا ثبت شده است"
+msgstr "This email is Already registered"
+
+#: includes/functions.php:81
+msgid "خطا"
+msgstr "Error"
+
+#: includes/functions.php:125
+msgid "ثبت نام در "
+msgstr "Registration in"
+
+#: includes/functions.php:133
+msgid "شما با موفقیت اکانت خود را تایید کردید و عضو سایت شدید."
+msgstr "You are successfully activate your account"
+
+#: includes/functions.php:137
+msgid "مشخصات اکانت شما به شرح زیر است"
+msgstr "Your account info is right here"
+
+#: includes/functions.php:140
+msgid "لینک فعال سازی"
+msgstr "Activation Link"
+
+#: includes/functions.php:140
+msgid "فعال سازی"
+msgstr "Activation"
+
+#: includes/functions.php:142
+msgid "با تشکر"
+msgstr "Thank you"
+
+#: includes/functions.php:152
+msgid "ازاینکه با حوصله اطلاعات را تکمیل کردید از شما سپاسگذاریم"
+msgstr "Thanks for filling form with patient "
+
+#: includes/functions.php:153
+msgid ""
+" لطفا برای فعال سازی نام کاربری روی لینکی که به ایمیلتان ارسال شده کلیک کنید"
+msgstr "Please activate your account with link that we send it to your email"
+
+#: includes/functions.php:154
+msgid ""
+"در صورتی که ایمیل در هرز نامه رفته لطفا ابتدا آن را از هرز نامه خارج کرده "
+"سپس روی لیکن فعال سازی کلیک نمایید"
+msgstr ""
+"if activation email is going to your spam folder, please first take it out "
+"of there and then click on activation link"
+
+#: includes/functions.php:157
+msgid "وب سایت"
+msgstr "Website"
+
+#: includes/landing.php:5
+msgid "خوش آمدید"
+msgstr "Welcome"
+
+#: includes/landing.php:5
+msgid "اکانت شما فعال شد، لطفا وارد شوید"
+msgstr "Your account is activated"
+
+#: includes/landing.php:16
+msgid "رمز عبور"
+msgstr "Password"
+
+#: includes/landing.php:19
+msgid "مرا به خاطر بسپار"
+msgstr "Remember Me"
+
+#: includes/landing.php:22
+msgid "ورود"
+msgstr "Enter"
+
+#. Plugin Name of the plugin/theme
+msgid "ثبت نام وردپرس"
+msgstr "Wordpress Registration"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://uikar.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "ثبت نام کاربران وردپرس"
+msgstr "Wordpress User Registration"
+
+#. Author of the plugin/theme
+msgid "سامان توحیدیان"
+msgstr "Saman Tohidian"
